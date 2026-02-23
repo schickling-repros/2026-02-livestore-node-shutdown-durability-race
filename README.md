@@ -27,4 +27,4 @@ In repeated local runs it consistently restored `event=100` instead of the last 
 
 ## Related Issue
 
-- TBD
+- https://github.com/livestorejs/livestore/issues/416
